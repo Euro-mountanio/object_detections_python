@@ -24,5 +24,5 @@ class recognition:
             print(" failed to stream ")
 
     
-#result = recognition.analyse("oscar1.jpg")
+result = recognition.analyse("oscar1.jpg")
 #print(result)
